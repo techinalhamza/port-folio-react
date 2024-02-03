@@ -1,0 +1,16 @@
+.project-btn{
+    border: 1px solid #383a3b;
+    padding: 12px 18px;
+    margin: 1rem 1rem 0 0;
+    font-weight: bold;
+    border-radius: 2rem;
+    transition: .4s ease;
+    outline: none;
+    letter-spacing: 1px;
+    /* background: #0EA4EC; */
+}
+@media (max-width:1024px) {
+    .content{
+        width: 35rem;
+    }
+}
